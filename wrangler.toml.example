@@ -1,0 +1,11 @@
+name = "la-mesa-bot"
+main = "src/worker.js"
+compatibility_date = "2024-12-01"
+
+[vars]
+# DISCORD_PUBLIC_KEY = ""
+# CLIENT_ID = ""
+# CATEGORY_ID = ""
+# STAFF_ROLE_ID = ""
+# R8_ROLE_ID = ""
+# R9_ROLE_ID = ""
